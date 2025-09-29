@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Mamreads Plus
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/prateek-who/Mamreader-plus
 // @version      0.5
 // @description  Adds a "Search MAM" button to Goodreads book and series pages.
 // @author       wh04m1Ev32
