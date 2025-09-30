@@ -1,0 +1,22 @@
+{
+  "name": "mamreads-plus",
+  "private": true,
+  "version": "0.9.0",
+  "type": "module",
+  "scripts": {
+    "watch": "vite build --watch",
+    "serve": "npx serve dist -l 5173",
+    "dev": "concurrently \"npm run watch\" \"npm run serve\"",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "release:patch": "npm version patch && npm run build",
+    "release:minor": "npm version minor && npm run build",
+    "release:major": "npm version major && npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.0",
+    "concurrently": "^9.2.1",
+    "typescript": "~5.8.3",
+    "vite": "^7.1.7"
+  }
+}
