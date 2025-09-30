@@ -1,7 +1,7 @@
 {
   "name": "mamreads-plus",
   "private": true,
-  "version": "0.9.0",
+  "version": "0.9.1",
   "type": "module",
   "scripts": {
     "watch": "vite build --watch",
