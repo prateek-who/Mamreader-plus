@@ -15,7 +15,7 @@ Jump seamlessly from Goodreads to MAM with a single click!
 ## Installation
 
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
-2. Visit the [Mamreader Plus script page on GreasyFork](https://greasyfork.org/en/scripts/551053-mamreads-plus)
+2. Visit the [Mamreader Plus](https://greasyfork.org/en/scripts/551053-mamreads-plus) script page on GreasyFork
 3. Click **Install** to add the script to your userscript manager
 
 That's it! The buttons will now appear automatically when you browse Goodreads.
